@@ -3,3 +3,6 @@
 - credits to mak for making keyauth back in 2020, credits to networking for constantly updating and revising it.
 - credits to visual studio for the compiler
 - credits to minhook / windows detours for the hooking libraries.
+
+## code snipets
+- check the folders and the readme's will contain the snippets and tuts.
