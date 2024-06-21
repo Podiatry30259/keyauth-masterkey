@@ -5,4 +5,4 @@
 - credits to minhook / windows detours for the hooking libraries.
 
 ## code snipets
-- check the folders and the readme's will contain the snippets and tuts.
+- all code is included within the readme's 🫀
